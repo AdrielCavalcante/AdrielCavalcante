@@ -6,7 +6,7 @@
 ![Java](https://img.shields.io/badge/-Java-%23FF0000?style=flat-square&logo=Java&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-%236495ED?style=flat-square&logo=PHP&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234169E1?style=flat-square&logo=MySQL&logoColor=ffffff)
-- Meus status:
+#### Meus status:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdrielCavalcante&show_icons=true&theme=radical)
-- Minhas linguagens:
+#### Minhas linguagens:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielCavalcante&layout=compact&hide=Hack&show_icons=true)
