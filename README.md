@@ -8,6 +8,6 @@
 ### Meus status:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdrielCavalcante&hide=contribs,issues&show_icons=true&theme=radical)
 ### Minhas linguagens:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielCavalcante&hide=Hack&show_icons=true&line_height=21&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielCavalcante&hide=Hack&show_icons=true&layout=compact&theme=radical)
 
 ##### Para mais informações, mande mensagem para: adriel.cavalcante2004@gmail.com
