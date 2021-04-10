@@ -1,4 +1,4 @@
-<h1 align="center"> Adriel Cavalcante </h1>
+<h1 align="center"> Adriel Cavalcante <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px"></h1>
 
 - ## Olá, meu nome é Adriel, tenho 17 anos e sou estudante de TI.👨‍💻
 - ## Atualmente estou no 3° ano do ensino médio e no 3° módulo do meu curso técnico em Tecnologia da Informação.💻
