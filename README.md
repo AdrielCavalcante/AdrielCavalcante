@@ -14,7 +14,7 @@
 <code><img height="32" title="React" src="https://appmasters.io/static/47ce6e77f039020ee2e76a10c1e988e9/acf26/react.webp" alt="React"/></code> <code><img height="32" title="Flutter" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter"/></code> <code><img height="32" title="MongoDB" src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB"/></code> <code><img height="32" title="Spring" src="https://img.icons8.com/color/452/spring-logo.png" alt="Spring"/></code> <code><img height="32" width="32" title="FireBase" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" alt="Firebase"/></code> <code><img height="32" width="32" title="Linux" src="http://pngimg.com/uploads/linux/linux_PNG48.png" alt="Linux"/></code>
   
   
-### Meus status:
+### My Stats:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdrielCavalcante&show_icons=true&theme=radical)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielCavalcante&show_icons=true&layout=compact&langs_count=10&theme=radical)
