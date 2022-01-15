@@ -14,6 +14,7 @@
 <code><img height="32" title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png" alt="Laravel"/></code> 
 <code><img height="32" title="Dart" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="Dart"/></code> 
 <code><img height="32" title="MySQL" src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL"/></code> 
+<code><img height="32" title="MongoDB" src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB"/></code>
 <code><img height="32" width="32" title="FireBase" src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" alt="Firebase"/></code> 
   
 ### Systems and tools 🖥
@@ -30,7 +31,8 @@
 ### In study
 <code><img height="32" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TypeScript"/></code> 
 <code><img height="32" title="React" src="https://appmasters.io/static/47ce6e77f039020ee2e76a10c1e988e9/acf26/react.webp" alt="React"/></code> 
-<code><img height="32" title="MongoDB" src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" title="Next.js" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="Next.js"/></code> 
+<code><img height="32" title="Node.js" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js"/></code>
 
 ### I have interest
 <code><img height="32" title="Spring" src="https://img.icons8.com/color/452/spring-logo.png" alt="Spring"/></code> 
