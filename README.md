@@ -1,6 +1,6 @@
 <h1 align="center"> Adriel Cavalcante <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px"></h1>
 
-- ## Hello, my name is Adriel, I'm have 17 years old and I'm an IT student.👨‍💻
+- ## Hello, my name is Adriel, I'm have 18 years old and I'm an IT student.👨‍💻
 - ## I completed high school and a technical course in information technology..💻
 - ## I live in the state and city of Rio de Janeiro.🌎
 
