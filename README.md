@@ -34,10 +34,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
-
-### My Stats ✨
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdrielCavalcante&show_icons=true&theme=radical)
-
 ##### For more information, send a message to
 <a href="https://www.linkedin.com/in/adriel-cavalcante">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
