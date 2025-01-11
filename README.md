@@ -1,7 +1,7 @@
 <h1 align="center"> Adriel Cavalcante <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px"></h1>
 
-- ## Hello, my name is Adriel, I'm 20 years old and I'm an IT student.👨‍💻
-- ## I'm majoring in Systems Analysis and Development at FAETERJ-Rio. 💻
+- ## Hello, my name is Adriel and I'm an Full Stack Developer.👨‍💻
+- ## I hold a degree in Systems Analysis and Development from FAETERJ-Rio. 💻
 - ## I live in the state and city of Rio de Janeiro.🌎
 
 ### Main Languages 📋
