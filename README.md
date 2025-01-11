@@ -31,8 +31,7 @@
 
 ### Technologies being studied 📚
 ![ASSEMBLY](https://img.shields.io/badge/Assembly-25344C.svg?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ##### For more information, send a message to
 <a href="https://www.linkedin.com/in/adriel-cavalcante">
